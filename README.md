@@ -3,7 +3,7 @@
 ## 🚀 Commands / Perms
 
 - /zuniqueitems (zui) define (item-name) ⭢ zuniqueitems.admin
-- /zuniqueitems (zui) give <item-name> <player-name> <amount> ⭢ zuniqueitems.admin
+- /zuniqueitems (zui) give (item-name) (player-name) (amount) ⭢ zuniqueitems.admin
 - /zuniqueitems (zui) reload ⭢ zuniqueitems.admin
 
 ## 📁 Download 
