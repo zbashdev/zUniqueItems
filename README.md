@@ -6,6 +6,8 @@ https://youtu.be/_t0EeMn_5nk
 
 - /zuniqueitems (zui) define (item-name) ⭢ zuniqueitems.admin
 - /zuniqueitems (zui) give (item-name) (player-name) (amount) ⭢ zuniqueitems.admin
+- /zuniqueitems (zui) potions add/remove (potions) (slot) (level) ⭢ zuniqueitems.admin
+- /zuniqueitems (zui) attribute add/remove (attribute) (slot) (level) ⭢ zuniqueitems.admin
 - /zuniqueitems (zui) reload ⭢ zuniqueitems.admin
 
 ## 📁 Download 
